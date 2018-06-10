@@ -62,8 +62,9 @@ h1{
 }
 
 h2 {
-  font-size: 20px;
+  font-size: 15px;
 font-family: 'Bungee Inline', cursive;
+  margin-top:10px;
   text-align:center;
   color:white;
   margin: 0;
